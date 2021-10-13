@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Alekseev Petr Sergeevich
+=======
+Petr Sergeevich
+
+develop 2 commit
+>>>>>>> release/0.1
